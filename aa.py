@@ -1,3 +1,3 @@
 
 print('Hello, world!')
-# assigning b a value of 56
+# assigning b a value of 52
